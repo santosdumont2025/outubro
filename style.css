@@ -114,7 +114,7 @@ main {
 
 .grid-imagens img {
     width: 100%;
-    aspect-ratio: 4 / 3;
+    aspect-ratio: 9 / 3;
     object-fit: cover;
     border-radius: 8px;
 }
